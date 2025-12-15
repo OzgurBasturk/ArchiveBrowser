@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Apollo 11 Audio Highlights (Public Domain)",
+    "method": "HTML",
+    "url": "https://archive.org/download/Apollo11Audio/Apollo_11_Highlights.zip/",
+    "filter": "",
+    "folder": "audio",
+    "extension": ".mp3"
+  },
+  {
+    "name": "Apollo 11 Audio (Public Domain)",
+    "method": "API",
+    "url": "Apollo11Audio",
+    "filter": "",
+    "folder": "audio",
+    "extension": ".mp3"
+  }
+]
