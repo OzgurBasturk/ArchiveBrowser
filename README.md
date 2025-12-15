@@ -121,13 +121,14 @@ For faster download speeds, you can use your Archive.org account credentials.
 
 🎮 Controls
 Button	Function
-D-Pad	Navigate Lists
-A	Select / Download / Confirm
-B	Back / Cancel Download / Exit App
-X	Search (Opens Keyboard)
-Y	Refresh (Delete cache and re-scrape)
-Start	Confirm Search
-L1 / R1	Jump to Next/Prev Letter (Fast Scroll)
+
+    D-Pad	Navigate Lists
+    A	Select / Download / Confirm
+    B	Back / Cancel Download / Exit App
+    X	Search (Opens Keyboard)
+    Y	Refresh (Delete cache and re-scrape)
+    Start	Confirm Search
+    L1 / R1   Jump to Next/Prev Letter (Fast Scroll)
 
 📝 Legal Disclaimer
 
